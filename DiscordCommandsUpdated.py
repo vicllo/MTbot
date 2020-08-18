@@ -22,7 +22,7 @@ bot = commands.Bot(command_prefix='&', description='Bot Mathraining, merci aux g
 
 #____________________CONSTANTES_______________________________
 
-token = 'NzQ1MzY2Mjc1MTMxMzEwMTAx.XzwucA.zcThblo7F1ZjcqSl-3rVe7-iZXA'
+token = "SECRET"
 NomsRoles = ["Grand Maitre", "Maitre", "Expert", "Chevronné", "Expérimenté", "Qualifié", "Compétent", "Initié", "Débutant", "Novice"]
 
 colors = {'Novice' : 0x888888, 'Débutant' : 0x08D508, 'Débutante' : 0x08D508, 'Initié' : 0x008800, 'Initiée' : 0x008800,
